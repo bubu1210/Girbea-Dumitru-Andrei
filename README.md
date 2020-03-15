@@ -1,0 +1,2 @@
+# gda
+Teme
